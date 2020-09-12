@@ -1,2 +1,62 @@
 # Padavan-build说明
-现在不需要新建Release了，已经更改了脚本，直接fork，修改好之后，点击右上角的 Star 星星按钮即可开始自动编译（自己点击才会编译）。
+* 现在不需要新建Release了，已经更改了脚本，直接fork，修改好之后，点击右上角的 Star 星星按钮即可开始自动编译（自己点击才会编译）。
+----------------
+## 支持的设备
+```
+360P2.config
+5K-W20.config
+A3004NS.config
+B70.config
+DIR-878-5.0.config
+DIR-878.config
+DIR-882-5.0.config
+DIR-882.config
+GHL.config
+HC5661A.config
+HC5761A.config
+HC5861B.config
+JCG-836PRO-5.0.config
+JCG-836PRO.config
+JCG-AC836M.config
+JCG-AC856M-5.0.config
+JCG-AC856M.config
+JCG-AC860M-5.0.config
+JCG-AC860M.config
+JDC-1-5.0.config
+JDC-1.config
+K2P-5.0.config
+K2P-USB-5.0.config
+K2P-USB-512-5.0.config
+K2P-USB-512.config
+K2P-USB.config
+K2P.config
+K2P_nano-5.0.config
+K2P_nano.config
+MI-3.config
+MI-MINI.config
+MI-NANO.config
+MI-R3G.config
+MI-R3P.config
+MR2600-5.0.config
+MR2600.config
+MZ-R13.config
+MZ-R13P.config
+MZ-R18.config
+Create MZ-R18.config & fix plugin (#354)
+NEWIFI-D1.config
+NEWIFI-MINI.config
+NEWIFI3.config
+OYE-001.config
+PSG1208.config
+PSG1218.config
+PSG1218_nano.config
+PSG712.config
+R2100.config
+RE6500.config
+RM2100.config
+RT-AC1200GU.config
+WDR7300.config
+WR1200JS.config
+XY-C1.config
+YK-L1.config
+```
