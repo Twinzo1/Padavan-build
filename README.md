@@ -42,7 +42,7 @@ MR2600.config
 MZ-R13.config
 MZ-R13P.config
 MZ-R18.config
-Create MZ-R18.config & fix plugin (#354)
+Create MZ-R18.config
 NEWIFI-D1.config
 NEWIFI-MINI.config
 NEWIFI3.config
