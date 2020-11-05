@@ -1,6 +1,7 @@
 name: 红米AC2100
 
 on: 
+  workflow_dispatch:
   release:
     types: [published]
 #  push:
